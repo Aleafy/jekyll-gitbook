@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            MLNLP-MuLi-Notes
+longtitle:        MLNLP-MuLi-Notes
+author:           Aleafy
+email:            1015014322@qq.com
 description: >
-  Build Jekyll site with the GitBook style.
+  MLNLP社区推出的李沐老师《动手学深度学习》课程笔记与代码。
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://aleafy.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
