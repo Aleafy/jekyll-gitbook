@@ -1,10 +1,4 @@
----
-title: 07-链式法则与自动求导-代码
-author: Aleafy
-date: 2022-01-15
-category: Jekyll
-layout: post
----
+
 
 ### 自动求导
 
